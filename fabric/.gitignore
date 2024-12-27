@@ -1,0 +1,7 @@
+build/
+.gradle/
+out/
+.idea/
+run/
+logs/
+src/main/java/net/fabricmc/*
